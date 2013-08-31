@@ -1,7 +1,7 @@
 tictactoe
 =========
 
-A TicTacTie bot in C. Guarantees win or draw(I thin so)
+A TicTacTie bot in C. Guarantees win or draw(I think so)
 Example:
 
 Input1<br />
