@@ -38,7 +38,7 @@ enum Check{Row, Column, Diagonal, ReverseDiagonal};
         columnMultiplication[i] *= input[i+j];
       }
     }
-    
+
     //Diagonal
     for(int i=0; i< 3 * 3; i=i+4) {
       diagonal *= input[i];
